@@ -10,7 +10,7 @@
 ##  Feature creation ## 
 ```Shell
 - Convert text to numeric representation . 
-- Choose a type of transformations: TF-IDF Fast text, bag of words and Word2Vec.
+- Choose a type of transformations: TF-IDF Fast text, bag of words , Word2Vec,etc ....
 The choice of TF-IDF in the case study is the fact that it is popular in dealing with sentiment analysis.
 ```
 ##  Modeling ## 
