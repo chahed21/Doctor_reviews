@@ -11,7 +11,7 @@
 ```Shell
 Convert text to numeric representation . 
 I used 2 types of transformations: TF-IDF and Fast text.(I can of course try the other ones such as bag of words , Word2Vec).
-The choose of TF-IDF is the fact that it is popular in dealing with sentiment analysis.
+The choice of TF-IDF is the fact that it is popular in dealing with sentiment analysis.
 ```
 ##  Modeling ## 
 ```Shell
